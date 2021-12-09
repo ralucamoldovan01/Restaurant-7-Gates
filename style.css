@@ -1,0 +1,141 @@
+body {
+	background-color: white;
+}
+
+h1 {
+	color: whitesmoke;
+    font-family: Times, Times New Roman, serif;
+    text-align: center;
+    padding:30px;
+   
+    
+}
+
+.titlu {
+    background-color:
+
+ #e4cdb4 ;
+}
+
+h2 {
+	padding-top: 40px;
+	color:BurlyWood;
+	font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin-bottom: 10px;
+	
+
+}
+
+h3 {
+	color: rgb(43, 41, 41);
+	
+	
+}
+h4 {
+	color:  #595959;
+	margin-top: 30px;
+}
+p {
+	font-size: 20px;
+	color: rgb(43, 41, 41);
+	margin:20px 0px;
+	font-family: Georgia, 'Times New Roman', Times, serif;
+	
+}
+/*.p-carousel {
+	color: white;
+	font-family:Times, Times New Roman, serif;
+    text-align: center;
+    paddin
+    
+
+}*/
+.meniu-titlu { 
+	text-align: center;
+	margin:70px 0px;
+	
+}
+
+.card-title {
+	color:rgb(247, 233, 215);
+	font-family: Georgia, 'Times New Roman', Times, serif;
+	text-align: center;
+	font-size: 30px;
+	padding-bottom: 10px;
+}
+.card {
+	background-color: #262626;
+	border: 1px solid rgb(43, 41, 41);
+	
+	border-radius: 20px;
+}
+.card img {
+	padding: 20px;
+}
+.carousel-inner {
+	background-size: 20px;
+}
+.card p {
+	color:rgb(247, 233, 215);;
+	font-family: Georgia, 'Times New Roman', Times, serif;
+	
+}
+.img-responsive {
+	width: 100%;
+}
+
+footer {
+	padding: 20px 0px;
+}
+
+.meniu-row {
+	margin: 0px;
+}
+
+.sec-events img {
+	
+	margin: 30px 0px;
+}
+
+.maps-row iframe {
+	margin-top: 15px;
+    
+
+}
+.ro {
+    background-color: 
+
+    #e4cdb4;
+    
+    max-width: 2000px;
+    margin-top: 30px;
+    padding-bottom: 20px;
+}
+.program {
+    padding-left:50px;
+    margin-top: 10px;
+}
+.footer-row h2 {
+	font-family: Georgia, 'Times New Roman', Times, serif;
+	color:whitesmoke;
+	font-size: 23px;
+	text-align: center;
+
+}
+
+.footer-row a {
+	text-decoration: none;
+	color: whitesmoke;
+}
+.footer-row {
+	text-align: center;
+}
+.footer-row p {
+	color:whitesmoke;
+
+}
+.copyright {
+	color: whitesmoke;
+	padding-top: 50px;
+}
+
